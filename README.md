@@ -3,8 +3,6 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://sagarbhagwatkar.io)
 
-<img align="center" alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargongit&label=Profile%20views&color=0e75b6&style=flat" alt="sagargongit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagargongit" alt="sagargongit" /></a> </p>
