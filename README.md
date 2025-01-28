@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with [Ethical Considerations](https://github.com/sagarGongit/Data_Considerations)
 
-- 👨‍💻 All of my projects are available at [sagarbhagwatkar-portfolio-u.netlify.app/](sagarbhagwatkar-portfolio-u.netlify.app/)
+- 👨‍💻 All of my projects are available at [sagarbhagwatkar-portfolio-u.netlify.app/]([sagarbhagwatkar-portfolio-u.netlify.app/](https://sagar-bhagwatkar-portfolio-cap.netlify.app/))
 
 - 📝 I regularly write articles on [MyBlogs.com](MyBlogs.com)
 
