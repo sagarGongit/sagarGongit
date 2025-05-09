@@ -20,7 +20,7 @@ src="https://camo.githubusercontent.com/bc425a5c4e99161dca81a32820bad4d14290d90d
 
 - 🤝 I’m looking for help with [Ethical Considerations](https://github.com/sagarGongit/Data_Considerations)
 
-- 👨‍💻 All of my projects are available at [https://sagar-bhagwatkar-portfolio-cap.netlify.app/](https://sagar-bhagwatkar-portfolio-cap.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sagar-bhagwatkar-portfolio-cap.netlify.app/](https://sample-portfol.netlify.app/)
 
 - 📝 I regularly write articles on [MyBlogs.com](MyBlogs.com)
 
