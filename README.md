@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 𝕊𝕒𝕘𝕒𝕣 𝔹𝕙𝕒𝕘𝕨𝕒𝕥𝕜𝕒𝕣</h1>
 <h3 align="center">A passionate frontend-backend developer from India</h3>
 
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://sagarbhagwatkar.io)
+[![MasterHead](https://camo.githubusercontent.com/bc425a5c4e99161dca81a32820bad4d14290d90de6308f16eb8e1d904526f5ab/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f44353631324151474f6d77664945356d6c57412f61727469636c652d636f7665725f696d6167652d736872696e6b5f3732305f313238302f302f313637343631373934373232383f653d3231343734383336343726763d6265746126743d4654555f697351365659665635445f7565464850577654385a716744654a47337972384d69386c70666b30)](https://sagarbhagwatkar.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargongit&label=Profile%20views&color=0e75b6&style=flat" alt="sagargongit" /> </p>
 
